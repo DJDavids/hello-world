@@ -1,5 +1,3 @@
-# hello-world
-JavaScript 
+# hello-world 
 Hi there!
-
-David here, I like Node.js!
+David here, I like GOB!
